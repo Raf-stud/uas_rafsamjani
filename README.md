@@ -1,4 +1,6 @@
-# uas_rafsamjani
+# UAS LAB PBK
+NAMA : Rafsamjani Anugrah 
+NPM : 213510581
 
 ## Project setup
 ```
